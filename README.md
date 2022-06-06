@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iryna14
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and illustrations in free time
 - 🌱 I’m currently learning React
 
 <!---
